@@ -1,3 +1,8 @@
+/*
+    API DOCUMANTATION
+    NAME - ARBAZ KHAN
+*/
+
 Requirements:
 
 1.User Signup:
@@ -22,6 +27,7 @@ Task 2: Send Confirmation Email link Signup
 Overview:
      Extend the signup funcƟonality to send a confirmaƟon email to the user aŌer successfully
     registering.
+
 
 Requirements:
 
