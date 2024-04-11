@@ -28,3 +28,26 @@ Requirements:
 1.Email Sending:
      Integrate an email sending service (e.g., Node mailer) to send confirmaƟon emails.
      Include a confirmaƟon link or code in the email.
+
+
+ Technology and IDE's used - 
+ 1. Nodejs
+ 2. ExpressJs
+ 3. MongoDB
+ 4. MongoDB Compass
+ 5. VSCode
+ 6. Postman
+
+ 
+ Libraries Used - 
+1. express
+2. cookie-parser
+3. body-parser
+4. jsonwebtoken
+5. nodemailer
+6. mongoose
+7. crypto
+8. json
+9. path
+10. fs
+11. handlebars
